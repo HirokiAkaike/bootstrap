@@ -2,7 +2,7 @@
 ○Bootstrapで利用できるアイコン<br/>
 https://icons.getbootstrap.com/ <br/>
 
-○Bootstrapで利用できる <br/>
+○Bootstrapで利用できるタグ <br/>
 https://getbootstrap.com/docs/5.0/getting-started/introduction/ <br/> 
 ⇒　タグを参考にするのであればこれがよい　<br/>
 
